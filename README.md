@@ -1,1 +1,1 @@
-# Save-the-Prisoner--ALGO
+# Save-the-Prisoner-ALGO.This program solves the Save the Prisoner problem by using modular arithmetic to determine which prisoner gets the last sweet after distributing m sweets among n prisoners starting from seat s. It calculates the unlucky prisoner as ((s - 1 + m - 1) % n) + 1 and outputs the result.
